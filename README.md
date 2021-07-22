@@ -1,38 +1,35 @@
-# Kasir App
-Aplikasi Kasir Penjualan Menggunakan Codeigniter Bootstrap Adminlte
+# Application de caisse
+Application de caissier des ventes utilisant Codeigniter Bootstrap Adminlte
 
-Aplikasi ini dibuat dengan:
+Cette application est faite avec :
 * **Codeigniter 3**
 * **AdminLTE3**
 * **Bootstrap4**
 * **Mysql Maria DB**
-* **Php 7**
-* dsb
+* **Ph 7**
+* etc
 
-## Fitur
+## Caractéristiques
 
-* Login
-* Dashboard
-* Supplier
-* Pelanggan
-* Produk (Kategori, Satuan, dan Data Produk)
-* Stok (Stok Masuk dan Keluar)
-* Transaksi
-* Laporan (Laporan Penjualan, Stok Masuk, dan Stok Keluar)
-* Pengaturan (Khusus Admin)
-* Pengguna (Khusus Admin)
+* Connexion
+* Tableaux de bord
+* Fournisseurs
+*Les clients
+* Produit (Catégorie, Unité et Données Produit)
+* Stock (Stock entrant et sortant)
+* Opérations
+* Rapports (rapport des ventes, stock entrant et stock sortant)
+* Paramètres (administrateur uniquement)
+* Utilisateurs (administrateurs uniquement)
+## Installation
 
-## Instalasi
+* Cloner ce dépôt
+* Créer une base de données avec le nom **caissier**
+* Importer le fichier cashier.sql
+* Mettre ce projet dans htdocs
 
-* Clone repositori ini
-* Buat database dengan nama **kasir**
-* Import file kasir.sql
-* Taruh project ini di htdocs
-
-## Screenshot
+## Captures d'écran
 
 ![Dashboard](https://i.ibb.co/3vV25Gv/dashboard.png)
 ![Transaksi](https://i.ibb.co/25jpLqL/transaksi.png)
 ![Stok](https://i.ibb.co/f4XF8MN/stok.png)
-
-Silahkan gunakan aplikasi ini dengan bijak
